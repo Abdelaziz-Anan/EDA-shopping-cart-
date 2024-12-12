@@ -1,0 +1,12 @@
+# You have a data set called a shopping cart it consists of four datasets
+- 1- customers.csv
+- 2- orders.csv
+- 3- products.csv
+- 4- sales.csv
+# Your task in this project is:
+- 1- combine this data
+- 2- check missing values
+- 3- show summary statistics
+- 4- deal with date time and extract features from dates
+- 5- answer at least 10 questions from this data
+- 6- Do univariate Analysis and bivariate using Plotly and Streamlit
